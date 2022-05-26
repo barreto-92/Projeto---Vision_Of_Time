@@ -1,21 +1,16 @@
-Turma 42 - Entrega do Projeto Prático de Construção de Sistemas 
-Entregue em: 25/05/2022\
+# PROJETO_PRÁTICO_DE_CONSTRUÇÃO_DE_SISTEMAS_COMPUTACIONAIS
+Turma_42- UNIVERSIDADE NOVE DE JULHO 
+Entregue em: 25/05/2022
+
 ------------------------------------------------------------------------------------------------------------------------------
 
+FOI REALIZADO O DESENVOLVIMENTO DE UM APLICATIVO DE PREVISÃO DO TEMPO, ONDE VOCÊ PODE REALIZAR A CONSULTA DA PREVISÃO DO TEMPO DE QUALQUER ESTADO OU CIDADE BRASILEIRA.
+SOBRETUDO VERIFICAR INFORMAÇÕES: TEMPERATURA ATUAL, TEMPERATURA MÁXIMA, TEMPERATURA MÍNIMA, PRESSÃO ATMOSFÉRICA, UMIDADE RELATIVA DO AR VISIBILIDADE DAS NUVENS.
 
-Foi realizado o desenvolvimeto de um apilcativo de previsao do tempo, onde você pode realizar a consulta da previsão do tempo de qualquer EStado ou cidade brasileira.
-
-Sobretudo verificar informações: temperaturta atual, temperatura máxima, temperatura miníma, pressão atmosférica, umidade relativa do ar visibilidade das nuvens.
-
-Seguem os integrantes do grupo abaixo:
+------------------------------------------------------------------------------------------------------------------------------
 
 **INTEGRANTES**\
-**RA        - NOME**
-
-42018089  – Leonardo Oliveira Alves
-920101311 – Marcos Vinicius Bueno da Silva 
-920119682 – Nicolas Batista Costa
-920126602 – Rodrigo Freitas Barreto
-
-atualização
-
+42018089   Leonardo Oliveira Alves\
+920101311  Marcos Vinicius Bueno da Silva\
+920119682  Nicolas Batista Costa\
+920126602  Rodrigo Freitas Barreto
